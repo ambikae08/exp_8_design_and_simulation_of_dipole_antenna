@@ -53,12 +53,12 @@ The antenna is usually fed at the centre gap using a **lumped port** or a **wave
 
 | Parameter | Value |
 |---|---|
-| Operating frequency (f) | ______ GHz |
-| Wavelength, λ = c/f | ______ mm |
-| Dipole length, L = λ/2 | ______ mm |
-| Arm length, L/2 | ______ mm |
-| Conductor radius | ______ mm |
-| Feed gap | ______ mm |
+| Operating frequency (f) | 2.45 GHz |
+| Wavelength, λ = c/f | 122.45 mm |
+| Dipole length, L = λ/2 | 61.22 mm |
+| Arm length, L/2 | 28.89 mm |
+| Conductor radius | 0.90 mm |
+| Feed gap | 1.00 mm |
 | Substrate / boundary | Radiation box (λ/4 air-buffer on all sides) |
 
 ---
@@ -187,13 +187,13 @@ A half-wave dipole antenna was designed and simulated at **2.45 GHz** using Ansy
 
 ## Result
  
-Resonant Frequency = GHz  
+Resonant Frequency = 2.449GHz  
 
-Return loss = dB
+Return loss = -23.15dB
 
-VSWR = 
+VSWR = 1.15
 
-Gain = 
+Gain = 2.11dBi
 
 ## Conclusion
 
